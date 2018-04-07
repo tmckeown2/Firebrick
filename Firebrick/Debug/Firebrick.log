@@ -1,0 +1,19 @@
+﻿  Source.cpp
+  CWall.cpp
+  CVampire.cpp
+  CTrample.cpp
+  CSword.cpp
+  CPlayer.cpp
+  CMinion.cpp
+  CLightning.cpp
+  CLeech.cpp
+  CHorde.cpp
+  CGameManager.cpp
+  CFireball.cpp
+  CDeck.cpp
+  CCard.cpp
+  CBless.cpp
+  CArmour.cpp
+  Generating Code...
+  Firebrick.vcxproj -> D:\Uni\Advanced C++\Assignment\Firebrick\Debug\Firebrick.exe
+  Firebrick.vcxproj -> D:\Uni\Advanced C++\Assignment\Firebrick\Debug\Firebrick.pdb (Partial PDB)

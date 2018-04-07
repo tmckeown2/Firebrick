@@ -1,0 +1,35 @@
+1 Dwarf 2 4
+11 Armour 1
+6 Wall 0 5
+10 Sword 2
+4 Bless 2 2
+1 Cannon 4 1
+1 Dwarf 2 4
+1 Cannon 4 1
+2 Fireball 3
+1 Cannon 4 1
+8 Elephant 4 4
+1 Swordswinger 2 2
+4 Bless 2 2
+1 Spearcarrier 2 1
+1 Elf 1 4
+1 Swordsman 2 2
+8 Elephant 4 4
+1 Spearcarrier 2 1
+6 Wall 0 5
+4 Bless 2 2
+1 Swordswinger 2 2
+2 Fireball 3
+1 Spearcarrier 2 1
+1 Dwarf 2 4
+11 Armour 1
+10 Sword 2
+1 Swordswinger 2 2
+1 Swordswinger 2 2
+1 Swordswinger 2 2
+1 Swordswinger 2 2
+1 Swordswinger 2 2
+1 Swordswinger 2 2
+1 Swordswinger 2 2
+1 Swordswinger 2 2
+1 Swordswinger 2 2

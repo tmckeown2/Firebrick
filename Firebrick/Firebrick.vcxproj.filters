@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Card Types">
+      <UniqueIdentifier>{3c96dfdb-372d-4111-835e-5b3f63a7fa85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Card Types\Equipment">
+      <UniqueIdentifier>{b4475304-3adb-499e-8899-76e1ece8ac5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Card Types\Minion">
+      <UniqueIdentifier>{113577c2-1fe6-46ad-9449-fc4c8c1bdc17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Card Types\Spell">
+      <UniqueIdentifier>{ba123549-5fb8-42d2-8a2b-dbd93db08532}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Card Types">
+      <UniqueIdentifier>{7e79a04b-6e57-4173-a13d-89dc1444f483}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Card Types\Equipment">
+      <UniqueIdentifier>{adfe3757-294a-4c73-a519-75a0734ad074}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Card Types\Minion">
+      <UniqueIdentifier>{b22d5227-cad1-4a49-bfd9-5690320e3285}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Card Types\Spell">
+      <UniqueIdentifier>{3a492dc9-549b-4ebe-b9ee-4d0c7c7d6b59}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CDeck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CArmour.cpp">
+      <Filter>Source Files\Card Types\Equipment</Filter>
+    </ClCompile>
+    <ClCompile Include="CBless.cpp">
+      <Filter>Source Files\Card Types\Spell</Filter>
+    </ClCompile>
+    <ClCompile Include="CCard.cpp">
+      <Filter>Source Files\Card Types</Filter>
+    </ClCompile>
+    <ClCompile Include="CFireball.cpp">
+      <Filter>Source Files\Card Types\Spell</Filter>
+    </ClCompile>
+    <ClCompile Include="CHorde.cpp">
+      <Filter>Source Files\Card Types\Minion</Filter>
+    </ClCompile>
+    <ClCompile Include="CLeech.cpp">
+      <Filter>Source Files\Card Types\Minion</Filter>
+    </ClCompile>
+    <ClCompile Include="CLightning.cpp">
+      <Filter>Source Files\Card Types\Spell</Filter>
+    </ClCompile>
+    <ClCompile Include="CMinion.cpp">
+      <Filter>Source Files\Card Types\Minion</Filter>
+    </ClCompile>
+    <ClCompile Include="CSword.cpp">
+      <Filter>Source Files\Card Types\Equipment</Filter>
+    </ClCompile>
+    <ClCompile Include="CTrample.cpp">
+      <Filter>Source Files\Card Types\Minion</Filter>
+    </ClCompile>
+    <ClCompile Include="CVampire.cpp">
+      <Filter>Source Files\Card Types\Minion</Filter>
+    </ClCompile>
+    <ClCompile Include="CWall.cpp">
+      <Filter>Source Files\Card Types\Minion</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="seed.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="sorceress.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="wizard.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CDeck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CBless.h">
+      <Filter>Header Files\Card Types\Spell</Filter>
+    </ClInclude>
+    <ClInclude Include="CArmour.h">
+      <Filter>Header Files\Card Types\Equipment</Filter>
+    </ClInclude>
+    <ClInclude Include="CCard.h">
+      <Filter>Header Files\Card Types</Filter>
+    </ClInclude>
+    <ClInclude Include="CFireball.h">
+      <Filter>Header Files\Card Types\Spell</Filter>
+    </ClInclude>
+    <ClInclude Include="CHorde.h">
+      <Filter>Header Files\Card Types\Minion</Filter>
+    </ClInclude>
+    <ClInclude Include="CLeech.h">
+      <Filter>Header Files\Card Types\Minion</Filter>
+    </ClInclude>
+    <ClInclude Include="CMinion.h">
+      <Filter>Header Files\Card Types\Minion</Filter>
+    </ClInclude>
+    <ClInclude Include="CSword.h">
+      <Filter>Header Files\Card Types\Equipment</Filter>
+    </ClInclude>
+    <ClInclude Include="CWall.h">
+      <Filter>Header Files\Card Types\Minion</Filter>
+    </ClInclude>
+    <ClInclude Include="CVampire.h">
+      <Filter>Header Files\Card Types\Minion</Filter>
+    </ClInclude>
+    <ClInclude Include="CTrample.h">
+      <Filter>Header Files\Card Types\Minion</Filter>
+    </ClInclude>
+    <ClInclude Include="CLightning.h">
+      <Filter>Header Files\Card Types\Spell</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

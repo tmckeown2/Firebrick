@@ -1,0 +1,35 @@
+1 Orc 2 2
+6 Wall 0 5
+7 Rat 1 2 1
+7 Rat 1 2 1
+7 Rat 1 2 1
+1 Goblin 2 1
+2 Fireball 3
+9 Leech 2 2 2
+3 Lightning 1
+1 Pooka 2 4
+1 Thorns 1 4
+1 Giant 4 4
+5 Vampire 2 3 1
+1 Orc 2 2
+8 Dragon 4 4
+1 Goblin 2 1
+1 Pooka 2 4
+5 Vampire 2 3 1
+2 Fireball 3
+1 Orc 2 2
+1 Goblin 2 1
+9 Leech 2 2
+1 Pooka 2 4
+3 Lightning 1
+8 Dragon 4 4
+1 Orc 2 2
+1 Orc 2 2
+1 Orc 2 2
+1 Orc 2 2
+1 Orc 2 2
+1 Orc 2 2
+1 Orc 2 2
+1 Orc 2 2
+1 Orc 2 2
+1 Orc 2 2
